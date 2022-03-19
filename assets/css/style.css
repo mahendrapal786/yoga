@@ -39,7 +39,7 @@ body a:hover{
 /*--banner--*/
 .banner{
 	min-height: 700px;
-	background:url(http://localhost/yoga/assets/images/banner.jpg)no-repeat 0px 0px;
+	background:url(https://romantic-bardeen-a3ec10.netlify.app/assets/images/banner.jpg)no-repeat 0px 0px;
 	background-size:cover;
 	position: relative;
 }
@@ -414,7 +414,7 @@ ul.social-slide li i.mac{
 }
 /*--testimonials--*/
 .testimonials {
-  background: url(http://localhost/yoga/assets/images/slid.jpg)no-repeat 0px -93px;
+  background: url(https://romantic-bardeen-a3ec10.netlify.app/assets/images/slid.jpg)no-repeat 0px -93px;
   text-align: center;
   padding: 5em 0 4em;
   background-size: cover;
@@ -467,7 +467,7 @@ ul.social-slide li i.mac{
 /*--contact-page--*/
 .contact {
   padding: 3.5em 0;
-  background:url(http://localhost/yoga/assets/images/map.jpg)no-repeat 0px 0px;
+  background:url(https://romantic-bardeen-a3ec10.netlify.app/assets/images/map.jpg)no-repeat 0px 0px;
   background-size:cover;
 }
 .contact h3 {
